@@ -1,0 +1,25 @@
+// Magic number for logo
+.w-16
+{
+    width: 16%;
+}
+
+.pt6--nudge
+{
+    padding-top: 13rem;
+}
+
+.header__item
+{
+    @extend .ttu;
+    @extend .pa3;
+    @extend .tc;
+    @extend .f6;
+}
+
+.hero__feature
+{
+    font-size: 4.5em;
+    line-height: 1em;
+    text-transform: uppercase;
+}
